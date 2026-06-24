@@ -17,14 +17,7 @@ This repository contains the programs and projects I build while learning C++ fr
 
 ## Projects
 
-### 1. Circle Calculator
-
-Calculates:
-
-* Area of a Circle
-* Circumference of a Circle
-
-### 2. Student Utility Tool
+### 1. Student Utility Tool
 
 Features:
 
@@ -33,7 +26,7 @@ Features:
 * ASCII Value Finder
 * Percentage Calculator
 
-### 3. Trading Assistant
+### 2. Trading Assistant
 
 Features:
 
@@ -41,6 +34,7 @@ Features:
 * Loss Calculator
 * Risk-Reward Calculator
 * Position Value Calculator
+* Trading Journal generator 
 
 ## Why I Created This Repository
 
