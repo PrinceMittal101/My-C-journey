@@ -12,9 +12,9 @@ This repository contains the programs and projects I build while learning C++ fr
 * Type Casting
 * ASCII Values
 * Conditional Statements (`if`, `else if`, `else`)
-* Loops (While and for)
-* accumulators
-* counters
+* Loops (`While` , `for`)
+* accumulators and counters
+* debugging Fundamentals
 * Basic Problem Solving
 * Menu-Driven Programs
 
@@ -45,6 +45,11 @@ Features:
 
 * Total Profit Calculation
 * Daily average profit
+
+Concepts used:
+- Arithematic Operators
+- User Input
+- loops(while/for)
 
 ### 3. Trading Performance Analyzer
 
