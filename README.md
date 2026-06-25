@@ -12,6 +12,9 @@ This repository contains the programs and projects I build while learning C++ fr
 * Type Casting
 * ASCII Values
 * Conditional Statements (`if`, `else if`, `else`)
+* Loops (While and for)
+* accumulators
+* counters
 * Basic Problem Solving
 * Menu-Driven Programs
 
@@ -34,7 +37,27 @@ Features:
 * Loss Calculator
 * Risk-Reward Calculator
 * Position Value Calculator
-* Trading Journal generator 
+* Trading Journal generator
+
+### 3. Profit Calculator
+
+Features:
+
+* Total Profit Calculation
+* Daily average profit
+
+### 3. Trading Performance Analyzer
+
+Features:
+
+* Total Profit/Loss Calculation
+* Average Profit/Loss
+* Winning Trades Counter
+* Losing Trades Counter
+* Best Trade Detection
+* Worst Trade Detection
+* Performance Analysis
+  
 
 ## Why I Created This Repository
 
