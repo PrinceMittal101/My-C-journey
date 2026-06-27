@@ -51,7 +51,7 @@ Concepts used:
 - User Input
 - loops(while/for)
 
-### 3. Trading Performance Analyzer
+### 4. Trading Performance Analyzer
 
 Features:
 
@@ -62,7 +62,20 @@ Features:
 * Best Trade Detection
 * Worst Trade Detection
 * Performance Analysis
-  
+
+### 5. ATM Simulator
+
+Features
+- Secure PIN Login (3 Attempts)
+- Balance Inquiry
+- Money Deposit
+- Money Withdrawal
+- Daily Withdrawal Limit
+- Invalid Amount Detection
+- Transaction Summary
+- Deposit & Withdrawal Counters
+- Total Deposited & Withdrawn Amount
+- Low Balance Warning
 
 ## Why I Created This Repository
 
