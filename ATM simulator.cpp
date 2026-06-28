@@ -1,10 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int pass=8000;
-    int pin;
-    int x=3;
-    int ini=10000;
+    int pass=8000, pin, x = 3, ini = 10000;
     cout<<"Welcome to ATM simulator"<<endl;
     cout<<"You have Initial balance as 10000$"<<endl;
     cout<<"To login you need to enter PIN and the PIN is : (80*[60 - {7*8 + (13 - 2*5)}])*100"<<endl;
@@ -20,13 +17,7 @@ int main(){
         }
     if(x==0 && pin !=pass){cout<<"You need to re-run the code"<<endl;
     return 0;}
-    int n;
-    int dep;
-    int with;
-    int DepositSum = 0;
-    int WithdrawSum = 0;
-    int a=0;
-    int b=0;
+    int n, dep, with, DepositSum = 0, WithdrawSum = 0, a = 0, b = 0;
     string choice = "yes";
     while(choice == "yes"){cout<<"========ATM========"<<endl;
     cout<<"1. Check Balance "<<endl;
@@ -71,8 +62,4 @@ int main(){
     cout<<"Total money withdrawl : "<<WithdrawSum<<endl;
     cout<<"Thanks for using our ATM service"<<endl;
     return 0;
-    }
-    
-                  
-    
-    
+}
